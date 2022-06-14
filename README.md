@@ -1,2 +1,2 @@
 # dio-repositorio
-Projeto Git/Github
+Projeto/Prática Git/Github
